@@ -1,3 +1,3 @@
 # Repro
 
-Repro for uploadthing issue #130
+Repro for uploadthing issue [#130](https://github.com/pingdotgg/uploadthing/issues/130)
